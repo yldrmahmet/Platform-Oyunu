@@ -2,6 +2,8 @@
 freeCodeCamp, Learn Intermediate OOP by Building a Platformer Game
 
  Giriş ekranı
+
+ 
 ![Giriş ekranı](giris-ekrani.png)
 
 Oyun içi ekranlar
